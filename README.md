@@ -13,9 +13,9 @@
 ![Location](https://img.shields.io/badge/Location-Ghaziabad%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshayakumar-980689392)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-5B21B6?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshaya-kumar-980689392 )
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-5B21B6?style=flat-square&logo=gmail&logoColor=white)](mailto:kumarlakshaya968@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/Lakshaya2405)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7c3aed&labelColor=1e1b2e&logo=github)
@@ -161,27 +161,30 @@ Currently:
 
 > **📌 Template section — no certifications currently listed.** Add badges below as you complete real courses.
 
-**AWS**
-<!-- ![AWS Certified](https://img.shields.io/badge/AWS-Certification%20Name-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) -->
+**UNSTOP**
+<!-- ![UNSTOP Certified](Certificate of Completion | HTML with AI - https://unstop.com/certificate-preview/b404b7ba-45bd-46a5-a44d-f9da991d4268) -->
 
-**Oracle**
-<!-- ![Oracle Certified](https://img.shields.io/badge/Oracle-Certification%20Name-F80000?style=for-the-badge&logo=oracle&logoColor=white) -->
+**SIMPLILEARN**
+<!-- ![SIMPLILEARN Certified](https://simpli-web.app.link/e/aSeQyNgOT4b) -->
 
-**NPTEL**
-<!-- ![NPTEL](https://img.shields.io/badge/NPTEL-Course%20Name-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white) -->
+**SIMPLILEARN**
+<!-- ![SIMPLILEARN](https://simpli-web.app.link/e/dL74oieOT4b) -->
 
-**Cisco**
-<!-- ![Cisco](https://img.shields.io/badge/Cisco-Certification%20Name-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) -->
+**UNSTOP**
+<!-- ![UNSTOP](Certificate of Completion | ReactJS - https://unstop.com/certificate-preview/8937c11c-4dfb-4a34-9d4e-7d2e15a37805) -->
+
+**UNSTOP**
+<!-- ![UNSTOP](Certificate of Completion | CSS with AI - https://unstop.com/certificate-preview/23e37953-7b74-4ea6-82da-790817ce22ef) -->
 
 ---
 
 ## 🟣 Coding Profiles
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Add%20Profile-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Add%20Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Add%20Profile-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Add%20Profile-5B21B6?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="#"><img src="https://leetcode.com/u/kumar_2428/-Add%20Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="#"><img src="https://www.geeksforgeeks.org/courses?source=google&medium=cpc&device=c&keyword=geeksforgeeks&matchtype=b&campaignid=20039445781&adgroup=147845288105&gad_source=1&gad_campaignid=20039445781&gbraid=0AAAAAC9yBkCNIgOv8MF38r3Dcx9UIU7C6&gclid=Cj0KCQjw6_HSBhCpARIsANvVltaOorLQ8R3kuKuHg1QdezWss4bwVeU8HZknDSqpll32w0QfojO3PScaAj0EEALw_wcB-Add%20Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="#"><img src="https://www.hackerrank.com/profile/kumarlakshaya968-Add%20Profile-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="#"><img src="https://www.codechef.com/users/kumar_2428-Add%20Profile-5B21B6?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 ---
