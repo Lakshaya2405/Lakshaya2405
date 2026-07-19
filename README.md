@@ -151,7 +151,7 @@ Currently:
 
 | Recognition | Details |
 |---|---|
-| *Add your achievements here* | *e.g. hackathon placements, coding contest ranks, academic honors* |
+| *Participated in HackIndia Hackathon* | *1st sem SGPA : 9.48* |
 
 </div>
 
