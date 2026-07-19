@@ -174,7 +174,7 @@ Currently:
 <!-- ![UNSTOP](Certificate of Completion | ReactJS - https://unstop.com/certificate-preview/8937c11c-4dfb-4a34-9d4e-7d2e15a37805) -->
 
 **UNSTOP**
-<!-- ![UNSTOP](Certificate of Completion | CSS with AI - https://unstop.com/certificate-preview/23e37953-7b74-4ea6-82da-790817ce22ef) -->
+<!-- ![UNSTOP](https://img.shields.io/badge/Unstop-Certification%20Name-1BA0D7?style=for-the-badge&logo=unstop&logoColor=white) -->
 
 ---
 
